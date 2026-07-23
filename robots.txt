@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-4auc1e.megasloto89yhm.lat/sitemap.xml
